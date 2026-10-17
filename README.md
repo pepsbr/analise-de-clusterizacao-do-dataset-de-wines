@@ -29,7 +29,7 @@ O estudo realiza a exploração estatística, investigação de *outliers*, padr
 
 ## 1. Visão Geral e Fluxo Metodológico
 
-O pipeline desenvolvido no notebook [`Atividade 01 - Cluesterização.ipynb`](./Atividade%2001%20-%20Cluesteriza%C3%A7%C3%A3o.ipynb) segue seis etapas estruturadas:
+O pipeline desenvolvido no notebook [`Atividade 01 - Cluesterização.ipynb`](./Atividade_01_Clusterizacao_Wine_UCI.ipynb) segue seis etapas estruturadas:
 
 ```mermaid
 flowchart LR
